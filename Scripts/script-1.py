@@ -28,6 +28,8 @@ b='sai'
 
 print(f'Id is {a} and name is {b}')
 
+# when do we call a data big data? volume,variety,velocity
+
 
 
 
